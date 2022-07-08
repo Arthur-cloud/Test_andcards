@@ -1,0 +1,19 @@
+{
+  "name": "test_andcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node": "^18.5.0",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "util": "^0.12.4"
+  }
+}
